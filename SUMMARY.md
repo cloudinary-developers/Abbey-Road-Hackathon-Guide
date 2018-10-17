@@ -30,5 +30,5 @@
 ## 7digital
 
 * [Using 7digital API](7digital/using-7digital-api.md)
-* [Untitled](7digital/untitled-1.md)
+* [API Specifics](7digital/untitled-1.md)
 
