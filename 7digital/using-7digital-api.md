@@ -31,7 +31,7 @@ description: >-
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMw7rB6tN87JH_K_qhA%2F-LMwJ5tFgIIrT6EIKcxI%2F-LMwJqfMuRaZCPrkgRcX%2FScreen%20Shot%202018-09-21%20at%2014.30.11.png?alt=media&token=149c79a7-6abb-4b0f-a092-ae80d82e0d0e)
 
-**​**[**List of catalog metadata can be found on this page**](https://7digital.gitbook.io/api-doc/catalog-metadata-available)**​**
+**​**[**List of catalog metadata can be found on this page**](https://cloudinary.gitbook.io/abbey-road-hackathon-2018/7digital/catalog-metadata-available)**​**
 
 ## Accessing UMG Catalog using 7digital API {#accessing-umg-catalog-using-7digital-api}
 
@@ -157,7 +157,7 @@ The following table contains a link to our online documentation for each endpoin
       <td
       style="text-align:left">Stream full length (or partial clip) audio for a specific track</td>
         <td
-        style="text-align:left"><b>See later page</b>
+        style="text-align:left"><b>See next page</b>
           </td>
           <td style="text-align:left">&trackId={int}</td>
     </tr>
