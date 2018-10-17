@@ -24,7 +24,7 @@ description: This page describes how to stream audio files from 7digital
 
 **We have created a form to help build and sign streaming URLs**
 
-* `7digital` [`Oauth signature reference​`](http://7digital.github.io/oauth-reference-page/)`​`
+* [`Click here - to access Oauth signature reference​`](http://7digital.github.io/oauth-reference-page/)
 * `Do not use Postman - it does not correctly sign our URLs`
 
 ## ​[Oauth 1.0 Signature Reference Form](http://7digital.github.io/oauth-reference-page/)​ {#oauth-1-0-signature-reference-form}

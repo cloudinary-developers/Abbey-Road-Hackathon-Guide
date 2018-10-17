@@ -43,7 +43,7 @@ description: Specific details on using the 7digital APIs
 <response status="error" version="1.2"> <error code="1001">  <errorMessage>Missing artist ID</errorMessage> </error></response>
 ```
 
-**​**[**A list of error codes and messages can be found on this page**](https://7digital.gitbook.io/api-doc/api-error-codes-and-messages)​
+**​**[**A list of error codes and messages can be found on this page**](https://cloudinary.gitbook.io/abbey-road-hackathon-2018/7digital/api-error-codes-and-messages)​
 
 ## **API Endpoint - Paging** {#api-endpoint-paging}
 
@@ -76,7 +76,7 @@ description: Specific details on using the 7digital APIs
 
 **50 is returned as default, to adjust this, add imageSize parameter to your api call**
 
-**​**[**http://api.7digital.com/1.2/release/details?shopId=2020&oauth\_consumer\_key=7d4vr6cgb392&releaseId=5726299&usageTypes=adsupportedstreaming&imageSize=800**](http://api.7digital.com/1.2/release/details?shopId=2020&oauth_consumer_key=7d4vr6cgb392&releaseId=5726299&usageTypes=adsupportedstreaming&imageSize=800)**​**
+**​**[**http://api.7digital.com/1.2/release/details?shopId=2020&oauth\_consumer\_key=7d4vr6cgb392&releaseId=5726299&usageTypes=adsupportedstreaming&imageSize=800**](http://api.7digital.com/1.2/release/details?shopId=2020&oauth_consumer_key=7d4vr6cgb392&releaseId=5726299&usageTypes=adsupportedstreaming&imageSize=800)
 
 _**Please Note -**_ All the endpoints return an URL for an artist image - however the image is not always be present as we no longer support this feature  
 
