@@ -8,7 +8,7 @@ description: >-
 
 ## Overview
 
-**Universal Music Group Canada have made a some of their songs available for the Elevate hackathon**
+**Universal Music Group have made a some of their songs available for the Abbey Road hackathon**
 
 * ≈ 20,000 songs
 * ≈ 1,500 unique artists
