@@ -8,7 +8,7 @@ description: >-
 
 ## Overview
 
-**Universal Music Group have made a some of their songs available for the Abbey Road hackathon**
+**Universal Music Group have made a some of their songs available for the Abbey Road Red hackathon**
 
 * ≈ 20,000 songs
 * ≈ 1,500 unique artists
