@@ -132,5 +132,3 @@ These features are available for use with all Cloudinary accounts, including the
 
 Want to give it a spin…? Add a comment below with your own creation using distort, shear and other Cloudinary manipulation capabilities. We’ll pick the coolest ones and send over a bunch of Cloudinary swag!
 
-
-

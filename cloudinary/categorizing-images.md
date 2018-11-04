@@ -1,6 +1,5 @@
 # Categorizing Images
 
-
 ![Auto tagging images](https://res.cloudinary.com/cloudinary/image/upload/w_500/imagga_auto_tagging_post.jpg)
 
 If you have an application that allows users to upload their own photos, it can be very useful to be able to organize these photos according to their content. This will allow you to categorize the content for displaying to all your users and make your image library searchable. Furthermore, you can also learn more about your users according to the content they upload and find different trends of what people care about. Other added benefits can also include the ability to display matching content to your users according to their interests or even match them with other users that share similar interests.
@@ -192,7 +191,4 @@ Categorizing photos can be a very useful and powerful tool that you can utilize 
 ![with\_url: false, with\_code: false](https://res.cloudinary.com/demo/image/upload/w_600/imagga_addon_screenshot.png)
 
 The Imagga Auto Tagging add-on is available now and all Cloudinary plans can try it out with the [add-on’s free tier](https://cloudinary.com/addons#imagga_tagging). If you don't have a Cloudinary account yet, you can easily [sign up for a free account](https://cloudinary.com/signup).
-
-
-
 

@@ -84,4 +84,3 @@ This is how the final result looks like:
 
 ![](http://res.cloudinary.com/tamas-demo/image/upload/ar_16:9,,dpr_2.0,c_lpad,g_west,b_auto/e_gradient_fade:symmetric_pad,x_50/e_art:zorro//e_make_transparent:10,l_wallifornia:logo20182x.jpg,w_140/l_text:roboto_45:Wiz%20Khalifa,co_black,g_south_east,x_30,y_10,w_600,c_fit/v1530016018/wallifornia/wiz-khalifa.jpg.png)
 
-

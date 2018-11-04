@@ -8,5 +8,3 @@ But all of this still generally remains within the realm of photographic content
 
 [Read full article and see demo here...](https://cloudinary.com/blog/from_photos_to_art_with_style_transfer)
 
-
-

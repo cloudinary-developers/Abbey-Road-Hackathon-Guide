@@ -16,5 +16,3 @@ Our goal was to show developers how to quickly build an engaging and fun online 
 
 [https://gist.github.com/traderd65/4d2d3b321934cf7a32dd78f6f7c6516f](https://gist.github.com/traderd65/4d2d3b321934cf7a32dd78f6f7c6516f)
 
-
-

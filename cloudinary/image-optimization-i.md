@@ -6,4 +6,3 @@ Developing a great website and maintaining it can be a challenging and time-cons
 
 [Continue reading the complete article...](https://cloudinary.com/blog/simplifying_image_rich_website_development_interactive_demo)
 
-
