@@ -27,7 +27,7 @@
 * [Audio to Waveform Images](cloudinary/audio-to-waveform-images.md)
 * [Social and Cloud Sources](cloudinary/social-and-cloud-sources.md)
 
-## 7digital
+## 7digital (UMG Content Access)
 
 * [Using 7digital API](7digital/using-7digital-api.md)
 * [API Specifics](7digital/untitled-1.md)
