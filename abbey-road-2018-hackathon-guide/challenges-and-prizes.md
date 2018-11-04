@@ -53,6 +53,9 @@ The teams will be judged by top industry experts, including: Isabel Garvey, MD, 
 
 #### Miquido Main prize for The Best User-Friendly Thinking
 
+Miquido \([https://www.miquido.com](https://www.miquido.com/)\) is focused on building data-driven apps and web services. They have delivered 100+ products for music & video streaming, m-commerce, FinTech, and other demanding industries.  At Miquido, they don’t want to stop at witnessing the change. They are building it, and want to be part of technological progress, addressing enterprises and tech innovators — that’s why they just couldn’t miss Abbey Road Red Hackathon. They are excited to help you with Machine Learning, new frameworks, and mobile apps development to reinvent music creation with the UX-first approach.  
+Miquido is 2018 Android Certified Agency, covered by Time & Forbes, and named Top 2018 Mobile App Development Company in the UK. Their solutions, including Abbey Road Topline app, are featured in Google Play and App Store.
+
 * 2000GBP between team members
 
 #### London Field Brewery Prize For The Most Original Idea
