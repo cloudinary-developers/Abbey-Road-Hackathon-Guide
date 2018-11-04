@@ -4,13 +4,13 @@
 
 10:30 Tech partners and mentors pitch on stage 
 
-12:30 Participants break to have lunch \(in canteen\), mingle and come up with ideas in S1 
+12:30 Lunch \(in canteen\), ideation in S1 
 
 13.00 Participants pitch ideas on stage 
 
 13:00 Finalise teams, mentors pairing 
 
-14:00 "Hack! Phase 1 - Theme: if you have to fail, fail fast". Rapid prototyping. 
+14:00 Hack! Phase 1 - Theme: "If you have to fail, fail fast". Rapid prototyping. 
 
 15:00 Demos in the isolation booths 
 
