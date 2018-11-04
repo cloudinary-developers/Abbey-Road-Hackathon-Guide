@@ -1,10 +1,6 @@
----
-description: This page describes how to stream audio files from 7digital
----
-
 # Streaming Audio Files
 
-## **Streaming Audio** {#streaming-audio}
+## **Streaming Audio** <a id="streaming-audio"></a>
 
 **To stream audio you need to build your own URL to call our streaming service**
 
@@ -27,7 +23,7 @@ description: This page describes how to stream audio files from 7digital
 * [`Click here - to access Oauth signature reference​`](http://7digital.github.io/oauth-reference-page/)
 * `Do not use Postman - it does not correctly sign our URLs`
 
-## ​[Oauth 1.0 Signature Reference Form](http://7digital.github.io/oauth-reference-page/)​ {#oauth-1-0-signature-reference-form}
+## ​[Oauth 1.0 Signature Reference Form](http://7digital.github.io/oauth-reference-page/)​ <a id="oauth-1-0-signature-reference-form"></a>
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMw7rB6tN87JH_K_qhA%2F-LMxIOAhVEMF2ToTg9gb%2F-LMxJILHHdqnjdsy_EMo%2FScreen%20Shot%202018-09-21%20at%2019.07.26.png?alt=media&token=a82170cb-e275-4b2a-acc1-4c7e47d7306f)
 
@@ -39,7 +35,7 @@ description: This page describes how to stream audio files from 7digital
 4. **Click \[refresh both\] button to sign API call with Oauth headers**
 5. **Click URL to test stream**
 
-## Partial Streams {#partial-streams}
+## Partial Streams <a id="partial-streams"></a>
 
 **If you want to stream part of a track, you can use the range request**
 

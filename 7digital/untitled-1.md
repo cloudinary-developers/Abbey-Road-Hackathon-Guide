@@ -1,10 +1,6 @@
----
-description: Specific details on using the 7digital APIs
----
-
 # API Specifics
 
-## **Catalog API Endpoint - Authentication** {#catalog-api-endpoint-authentication}
+## **Catalog API Endpoint - Authentication** <a id="catalog-api-endpoint-authentication"></a>
 
 **Hackathon specific parameters to access UMG Canada catalog**
 
@@ -25,7 +21,7 @@ description: Specific details on using the 7digital APIs
 * `Access to resource denied = Invalid API Key passed on call OR Missing/Invalid shopId`
 * `Resource not found = Invalid API Endpoint called`
 
-## **API Endpoint - Responses** {#api-endpoint-responses}
+## **API Endpoint - Responses** <a id="api-endpoint-responses"></a>
 
 **API Responses default to XML - JSON is available by using “accept JSON” header**
 
@@ -45,7 +41,7 @@ description: Specific details on using the 7digital APIs
 
 **​**[**A list of error codes and messages can be found on this page**](https://cloudinary.gitbook.io/abbey-road-hackathon-2018/7digital/api-error-codes-and-messages)​
 
-## **API Endpoint - Paging** {#api-endpoint-paging}
+## **API Endpoint - Paging** <a id="api-endpoint-paging"></a>
 
 **Our catalog endpoints use paging to return large sets of results, A typical call might return these elements in the response**
 
@@ -62,7 +58,7 @@ description: Specific details on using the 7digital APIs
 
 `http://api.7digital.com/1.2/artist/browse?letter=ki&shopId=2020&oauth_consumer_key=7d4vr6cgb392&page=2&pagesize=50`
 
-## **Accessing Artist & Album Artwork** {#accessing-artist-and-album-artwork}
+## **Accessing Artist & Album Artwork** <a id="accessing-artist-and-album-artwork"></a>
 
 **The release and track endpoints return an URL to the album artwork**
 

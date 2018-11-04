@@ -1,9 +1,3 @@
----
-description: >-
-  This guide describes how to use the 7digital API endpoints to access the UMG
-  catalog made available for this hackathon
----
-
 # Using 7digital API
 
 ## Overview
@@ -23,17 +17,17 @@ description: >-
 * Retrieve album artwork \(CD covers\) for every album in the catalog
 * Stream full length audio files for every song in the catalog
 
-## API Architecture {#api-architecture}
+## API Architecture <a id="api-architecture"></a>
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMw7rB6tN87JH_K_qhA%2F-LMwD1UzpvNzajWkgi6a%2F-LMwIvwUUzcirU0BfUue%2FScreen%20Shot%202018-09-21%20at%2014.26.15.png?alt=media&token=81fbb381-48d4-42e1-b095-abfd1ba61346)
 
-## Catalog Schema {#catalog-schema}
+## Catalog Schema <a id="catalog-schema"></a>
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMw7rB6tN87JH_K_qhA%2F-LMwJ5tFgIIrT6EIKcxI%2F-LMwJqfMuRaZCPrkgRcX%2FScreen%20Shot%202018-09-21%20at%2014.30.11.png?alt=media&token=149c79a7-6abb-4b0f-a092-ae80d82e0d0e)
 
 **​**[**List of catalog metadata can be found on this page**](https://cloudinary.gitbook.io/abbey-road-hackathon-2018/7digital/catalog-metadata-available)**​**
 
-## Accessing UMG Catalog using 7digital API {#accessing-umg-catalog-using-7digital-api}
+## Accessing UMG Catalog using 7digital API <a id="accessing-umg-catalog-using-7digital-api"></a>
 
 **Access to UMG catalog using 7digital services \(API\)**
 
@@ -49,7 +43,7 @@ description: >-
 * **`consumer_key = 7d4vr6cgb392`**
 * **`consumer_secret = m4ntskavq56rddsa`**
 
-## Sample API Call {#sample-api-call}
+## Sample API Call <a id="sample-api-call"></a>
 
 ​[http://api.7digital.com/1.2/artist/search?shopId=2020&oauth\_consumer\_key=7d4vr6cgb392&q=john](http://api.7digital.com/1.2/artist/search?shopId=2020&oauth_consumer_key=7d4vr6cgb392&q=john)​
 
@@ -61,7 +55,7 @@ description: >-
 | &oauth\_consumer\_key=7d4vr6cgb392 | Parameter for consumer key |
 | &q=john | Parameter for search query string |
 
-## API Endpoint List  {#api-endpoint-list}
+## API Endpoint List  <a id="api-endpoint-list"></a>
 
 The following table contains a link to our online documentation for each endpoint, and a sample working call for each endpoint. You can use this to help understand how our calls are constructed and what the responses look like
 
