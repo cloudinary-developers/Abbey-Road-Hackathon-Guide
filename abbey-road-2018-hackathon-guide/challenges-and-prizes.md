@@ -13,9 +13,7 @@ Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 * 1-year Cloudinary Plus plan \($1068 value\) to the hack teams chosen for the most creative and the best implementation
 * Distinguished hack projects \(that use Cloudinary\) will be featured on [our Blog](https://cloudinary.com/blog).
 
-{% hint style="info" %}
-
 
 [**Cloudinary**](https://cloudinary.com/signup?utm_source=HMW&utm_medium=Gitbook&utm_campaign=Evangelism&utm_term=Hackathon-Guide&utm_content=Signup_HMW-2018) delivers on the premise that images and visuals greatly enhance the user experience of music and video. As a powerful API for media management, we let developers handle images, videos, audio and emerging media types. End-to-end automation includes media selection, upload, analysis, administration, manipulation, optimization and delivery.
-{% endhint %}
+
 
