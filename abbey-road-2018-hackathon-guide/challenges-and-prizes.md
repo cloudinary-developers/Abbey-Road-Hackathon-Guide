@@ -1,7 +1,7 @@
 # Challenges and Prizes
 
 
-# Cloudinary Challenge
+## Cloudinary Challenge
 
 ![](https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_300/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png)
 
