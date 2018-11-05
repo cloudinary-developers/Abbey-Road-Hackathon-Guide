@@ -43,7 +43,7 @@
 * [Artist Cluster](tech-partners/artist-cluster.md)
 * [AmbiMusic](tech-partners/ambimusic.md)
 * [Cloudinary](tech-partners/cloudinary.md)
-* [7Digital](tech-partners/7digital.md)
+* [7Digital](https://cloudinary.gitbook.io/abbey-road-hackathon-2018/7digital-umg-content-access/using-7digital-api)
 
 ## Hardware & Boards
 
