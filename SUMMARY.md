@@ -42,6 +42,8 @@
 * [Quantone](tech-partners/quantone.md)
 * [Artist Cluster](tech-partners/artist-cluster.md)
 * [AmbiMusic](tech-partners/ambimusic.md)
+* [Cloudinary](tech-partners/cloudinary.md)
+* [7Digital](tech-partners/7digital.md)
 
 ## Hardware & Boards
 
