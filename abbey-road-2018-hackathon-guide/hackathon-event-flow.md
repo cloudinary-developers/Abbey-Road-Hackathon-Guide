@@ -10,7 +10,7 @@
 
 ### 13:00 - Participants pitch ideas on stage 
 
-### 13:00 - Finalise teams, mentors pairing 
+### 13:30 - Finalise teams, mentors pairing 
 
 ### 14:00 Hack! Phase 1 - Theme: "If you have to fail, fail fast". Rapid prototyping. 
 
@@ -40,7 +40,9 @@
 
 ### 9:00 - Presentations prep
 
-### 11:30 - Stop hacking, Pitches to be collected for AV,  S1 reconfigure and clean 
+### 11:00 - Stop hacking, Pitches to be collected for AV,  
+
+### 11:30- S1 reconfigure and clean 
 
 ### 12:30 - Lunch in canteen 
 
@@ -52,5 +54,5 @@
 
 ### 16:00 - Prizes announcement, final photos 
 
-### 17:30 - Event ends
+### 17:00 - Event ends
 
