@@ -15,7 +15,7 @@
 
 `http://api.7digital.com/1.2/artist/browseshopId=2020&oauth_consumer_key=7d4vr6cgb392&letter=ki`
 
-**HTTP Status Code 401 will be returned for authentication errors**
+**If you make a mistake authenticating an API call, then an HTTP 401 status code will be returned**
 
 * `Plain text error message will also be returned indicating cause`
 * `Access to resource denied = Invalid API Key passed on call OR Missing/Invalid shopId`
