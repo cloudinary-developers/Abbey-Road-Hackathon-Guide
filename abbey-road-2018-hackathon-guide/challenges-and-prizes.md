@@ -51,12 +51,12 @@ When thinking about your ideas, try to think about creative process and the arti
 
 ### **Microsoft Main prize for The Best Use of AI:**
 
-* 1 hour strategy session on the winning project after the Hackathon \(before May 31, 2019\) from Microsoft mentors and experts 
-* Membership winning group of up to 6 developers from the team in the “AI Insiders Program” through to July 1, 2019 which includes:
-* Access to early information when technology goes public
-* Official Linked In badge \(“Hackathon Winner” version\)
-* Monthly Q & A Calls 
-* 6 Xboxes between team members
+* **1 hour strategy session on the winning project after the Hackathon \(before May 31, 2019\) from Microsoft mentors and experts** 
+* **Membership winning group of up to 6 developers from the team in the “AI Insiders Program” through to July 1, 2019 which includes:**
+* **Access to early information when technology goes public**
+* **Official Linked In badge \(“Hackathon Winner” version\)**
+* **Monthly Q & A Calls** 
+* **6 Xboxes between team members**
 
 ### Miquido Main prize for The Best User-Friendly Thinking
 
@@ -65,7 +65,7 @@ When thinking about your ideas, try to think about creative process and the arti
   
 Miquido is 2018 Android Certified Agency, covered by Time & Forbes, and named Top 2018 Mobile App Development Company in the UK. Their solutions, including Abbey Road Topline app, are featured in Google Play and App Store.
 
-* 2000 GBP to share between team members
+* **2000 GBP to share between team members**
 
 
 
@@ -78,11 +78,11 @@ Miquido is 2018 Android Certified Agency, covered by Time & Forbes, and named To
 
 ### London Field Brewery Prize For The Most Original Idea
 
-* Generous supply of London Field Brewery for each team member
+* **Generous supply of London Field Brewery for each team member**
 
 ### JUCE Prize For the Best Audio Devs
 
-* 3 ROLI SDK Blocks Kit for the  best audio developers
+* **3 ROLI SDK Blocks Kit for the  best audio developers**
 
 
 
