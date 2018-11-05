@@ -20,6 +20,7 @@
 * [Cloudinary](tech-partners/cloudinary.md)
 * [7Digital](https://cloudinary.gitbook.io/abbey-road-hackathon-2018/7digital-umg-content-access/using-7digital-api)
 * [UMG Creative Metadata API](tech-partners/umg-creative-metadata-api.md)
+* [AudioCommons](tech-partners/audiocommons.md)
 
 ## Hardware & Boards
 
