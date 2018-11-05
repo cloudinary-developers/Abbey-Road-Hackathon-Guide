@@ -7,8 +7,7 @@
 * [Arrival Guide / Parking](abbey-road-2018-hackathon-guide/arrival-guide-parking.md)
 * [Hackathon Event Flow](abbey-road-2018-hackathon-guide/hackathon-event-flow.md)
 * [Challenges and Prizes](abbey-road-2018-hackathon-guide/challenges-and-prizes.md)
-* [Participating Sponsors](abbey-road-2018-hackathon-guide/participating-sponsors.md)
-* [Special Guests](abbey-road-2018-hackathon-guide/special-guests.md)
+* [Tech Partners](abbey-road-2018-hackathon-guide/participating-sponsors.md)
 
 ## Cloudinary
 
@@ -34,4 +33,8 @@
 * [Streaming Audio Files](7digital-umg-content-access/streaming-audio-files.md)
 * [Catalog Metadata Available](7digital-umg-content-access/catalog-metadata-available.md)
 * [API Error Codes & Messages](7digital-umg-content-access/api-error-codes-and-messages.md)
+
+## Tech Partners
+
+* [Microsoft](tech-partners/microsoft.md)
 
