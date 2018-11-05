@@ -1,50 +1,56 @@
 # Hackathon Event Flow
 
-10:00 Participant registration
+## Saturday, November 10th
 
-10:30 Tech partners and mentors pitch on stage 
+### 10:00 - Participant registration
 
-12:30 Lunch \(in canteen\), ideation in S1 
+### 10:30 - Tech partners and mentors pitch on stage 
 
-13.00 Participants pitch ideas on stage 
+### 12:30 - Lunch \(in canteen\), ideation in S1 
 
-13:00 Finalise teams, mentors pairing 
+### 13:00 - Participants pitch ideas on stage 
 
-14:00 Hack! Phase 1 - Theme: "If you have to fail, fail fast". Rapid prototyping. 
+### 13:00 - Finalise teams, mentors pairing 
 
-15:00 Demos in the isolation booths 
+### 14:00 Hack! Phase 1 - Theme: "If you have to fail, fail fast". Rapid prototyping. 
 
-19:00 Dinner 
+### 15:00 - Demos in the isolation booths 
 
-20:00 Hack Phase 2 :theme : Focus
+### 19:00 - Dinner 
 
-22:00 Mechano techno set
+### 20:00 - Hack Phase 2 :theme : Focus
 
-23:00 Hack
+### 22:00 - Mechano techno set
 
-00:00 Midnight feast 
+### 23:00 - Hack
 
-1:00 Hack phase 3 : Theme : the best ideas come at worst possible time 
 
-3:30 Hack phase 4 - quiet time 
 
-6:00 Sunrise set 
+## Sunday, November 11th
 
-8:30 Breakfast 
+### 00:00 - Midnight feast 
 
-9:00 Presentations prep
+### 1:00 - Hack phase 3: Theme : the best ideas come at worst possible time 
 
-11:30 Stop hacking, Pitches to be collected for AV,  S1 reconfigure and clean 
+### 3:30 - Hack phase 4: quiet time 
 
-12:30 Lunch in canteen 
+### 6:00 - Sunrise set 
 
-13:00 External guests and press arrive, mixer with bar starts 
+### 8:30 - Breakfast 
 
-13.15 Pitch Start 
+### 9:00 - Presentations prep
 
-15:30 Performance/Judges deliberate 
+### 11:30 - Stop hacking, Pitches to be collected for AV,  S1 reconfigure and clean 
 
-16:00 Prizes announcement, final photos 
+### 12:30 - Lunch in canteen 
 
-17.30 Event ends
+### 13:00 - External guests and press arrive, mixer with bar starts 
+
+### 13:15 - Pitch Start 
+
+### 15:30 - Performance/Judges deliberate 
+
+### 16:00 - Prizes announcement, final photos 
+
+### 17:30 - Event ends
 
