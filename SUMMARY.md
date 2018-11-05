@@ -37,4 +37,9 @@
 ## Tech Partners
 
 * [Microsoft](tech-partners/microsoft.md)
+* [JUCE](tech-partners/juce.md)
+* [WhoSampled](tech-partners/whosampled.md)
+* [Gracenote](tech-partners/gracenote.md)
+* [Quantone](tech-partners/quantone.md)
+* [Artist Cluster](tech-partners/artist-cluster.md)
 
