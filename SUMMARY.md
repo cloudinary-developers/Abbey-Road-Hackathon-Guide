@@ -7,7 +7,6 @@
 * [Arrival Guide / Parking](abbey-road-2018-hackathon-guide/arrival-guide-parking.md)
 * [Hackathon Event Flow](abbey-road-2018-hackathon-guide/hackathon-event-flow.md)
 * [Challenges and Prizes](abbey-road-2018-hackathon-guide/challenges-and-prizes.md)
-* [Tech Partners](abbey-road-2018-hackathon-guide/participating-sponsors.md)
 
 ## Cloudinary
 
@@ -42,4 +41,12 @@
 * [Gracenote](tech-partners/gracenote.md)
 * [Quantone](tech-partners/quantone.md)
 * [Artist Cluster](tech-partners/artist-cluster.md)
+* [AmbiMusic](tech-partners/ambimusic.md)
+
+## Hardware & Boards
+
+* [Chirp](hardware-and-boards/chirp.md)
+* [Hackoustic](hardware-and-boards/hackoustic.md)
+* [Bare Conductive](hardware-and-boards/bare-conductive.md)
+* [Volumio](hardware-and-boards/volumio.md)
 
