@@ -38,7 +38,14 @@ We don’t want to be too prescriptive with our challenges, those are rather the
 
 When thinking about your ideas, try to think about creative process and the artists. How would you explain your idea to musician? How would you present it? You will be judged on creativity and originality of your ideas and you have to present your hack on stage in the simple accessible way \(power point/video/live stream/running code accompanied by pitch style commentary\).Be open to the ideas of the others and mentorship, and join the group you like the most \(we need you to have teams of 5 or more\). 
 
-**The teams will be judged by top industry experts, including: Isabel Garvey, MD, Abbey Road Studios, Jay Katsuyama, VP Technology, Universal Music Group, Steve Kelly Senior Director of Innovation and Technology, Universal Music Group, Noelle LaCharite Leading Applied AI DevEx, Microsoft, Krzysztof Kogutkiewicz CEO, Miquido David Hawkes Managing Director, Commercial \(UK\) Universal Music Group**
+**The teams will be judged on creativity and originality of their ideas by top industry experts, including:**
+
+* **Isabel Garvey, MD, Abbey Road Studios**
+* **Jay Katsuyama, VP Technology, Universal Music Group**
+* **Steve Kelly Senior Director of Innovation and Technology, Universal Music Group,** 
+* **Noelle LaCharite Leading Applied AI DevEx, Microsoft** 
+* **Krzysztof Gudowski, Business Development , Miquido** 
+* **David Hawkes Managing Director, Commercial \(UK\) Universal Music Group**
 
 ## Prizes:
 
@@ -58,7 +65,7 @@ When thinking about your ideas, try to think about creative process and the arti
   
 Miquido is 2018 Android Certified Agency, covered by Time & Forbes, and named Top 2018 Mobile App Development Company in the UK. Their solutions, including Abbey Road Topline app, are featured in Google Play and App Store.
 
-* 2000GBP between team members
+* 2000 GBP to share between team members
 
 
 
@@ -69,13 +76,13 @@ Miquido is 2018 Android Certified Agency, covered by Time & Forbes, and named To
 * **1-year Cloudinary Plus plan \($1068 value\) to the hack teams chosen for the most creative and the best implementation**
 * **Distinguished hack projects \(that use Cloudinary\) will be featured on** [**Cloudinary Blog**](https://cloudinary.com/blog)**.**
 
-
-
 ### London Field Brewery Prize For The Most Original Idea
 
-* Generous supply of London Field Brewery
+* Generous supply of London Field Brewery for each team member
 
-### JUCE Prize For the Best Idea for Musicians
+### JUCE Prize For the Best Audio Devs
 
-* ROLI SDK Block Kit for the 
+* 3 ROLI SDK Blocks Kit for the  best audio developers
+
+
 
