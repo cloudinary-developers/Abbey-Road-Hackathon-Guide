@@ -32,7 +32,7 @@ Unfortunately, there is no parking available at Abbey Road Studios.
 
 ## **Studios T&C**
 
-Please note no smoking is permitted in the building, we kindly ask you to smoke in front of the building in the designated spaces.
+Please note that no smoking is permitted in the building, we kindly ask you to smoke in front of the building in the designated spaces.
 
 Please note no photography is permitted in public spaces like the bar, corridors or reception.
 
