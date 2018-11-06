@@ -18,11 +18,9 @@ NW8 9AY
 
 **Nearest Tube Stations:**
 
-St John's Wood
-
-Maida Vale
-
-South Hampstead
+* St John's Wood
+* Maida Vale
+* South Hampstead
 
 **Nearest shops, coffee shops and restaurants:**
 
