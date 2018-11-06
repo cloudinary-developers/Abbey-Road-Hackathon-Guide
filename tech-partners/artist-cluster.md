@@ -5,3 +5,5 @@ The artist cluster is graph theoretical network that tracks over 4 million artis
 **\*\* Access to the tool and the API will only be given during the hackathon only.**  
 
 
+{% file src="../.gitbook/assets/artistcluster-apidok.pdf" caption="ARTIST CLUSTER API DOCUMENTATION" %}
+
