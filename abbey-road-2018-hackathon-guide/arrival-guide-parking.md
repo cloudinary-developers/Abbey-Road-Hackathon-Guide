@@ -34,13 +34,13 @@ Unfortunately, there is no parking available at Abbey Road Studios.
 
 Please note that no smoking is permitted in the building, we kindly ask you to smoke in front of the building in the designated spaces.
 
-Please note no photography is permitted in public spaces like the bar, corridors or reception.
+Please note that no photography is permitted in public spaces like the bar, corridors or reception.
 
 We kindly ask you to respect privacy of other studio clients and never enter other studios, and keep noise to the minimum.
 
 No drinks are allowed in Control Rooms and next to studio equipment.
 
-Please make sure you are gentle to our 87 year old floors \(we have to pay large fees in the event of any floor damage\).
+Please make that sure you are gentle to our 87 year old floors \(we have to pay large fees in the event of any floor damage\).
 
 ## What to bring <a id="what-to-bring"></a>
 
