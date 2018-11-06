@@ -2,9 +2,9 @@
 
 **Arrival:** 
 
-10 am 10 November 2018
+10am, 10th November 2018
 
-Please report at the reception to register for the event and sign event T&C's.  Please bring your proof of ID to be able to get to sign T&C's.
+Please report at reception with proof of ID to register for the event and sign T&C's. 
 
 **Address:**
 
