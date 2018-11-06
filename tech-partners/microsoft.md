@@ -86,3 +86,7 @@ _Infuse apps, websites and bots with intelligent algorithms to see, hear, speak,
 * [**Project Acoustics**](https://docs.microsoft.com/en-us/azure/cognitive-services/acoustics/what-is-acoustics)
 * [**Custom Decision Service**](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-decision-service/) 
 
+## **API MENTOR: Noelle LaCharite** 
+
+**Principal Program Manager, Developer Experience Azure Applied AI and Cognitive Services**
+
