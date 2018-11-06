@@ -12,5 +12,7 @@ Notes:
 
   Sample dataset attached so teams have an idea what to expect.
 
+## **API MENTOR**  [**Simon.Goulder@umusic.com**](mailto:Simon.Goulder@umusic.com)\*\*\*\*
+
 {% file src="../.gitbook/assets/creative-metadata-api-sample.tsv" caption="Creative Metadata API SAMPLE" %}
 
