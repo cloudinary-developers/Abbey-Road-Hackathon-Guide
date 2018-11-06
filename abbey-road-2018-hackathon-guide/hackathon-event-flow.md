@@ -22,11 +22,9 @@
 
 ## Sunday, November 11th
 
-### 
+### 08:30 - Breakfast 
 
-### 8:30 - Breakfast 
-
-### 9:00 - Pitch preparation with mentors
+### 09:00 - Pitch preparation with mentors
 
 ### 11:00 - Hacking ends! Presentations to be collected
 
