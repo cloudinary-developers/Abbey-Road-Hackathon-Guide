@@ -4,55 +4,41 @@
 
 ### 10:00 - Participant registration
 
-### 10:30 - Tech partners and mentors pitch on stage 
+### 10:30 - Introductions to tech partners and mentors
 
-### 12:30 - Lunch \(in canteen\), ideation in S1 
+### 12:30 - Lunch and initial ideation phase
 
-### 13:00 - Participants pitch ideas on stage 
+### 13:00 - Idea pitching on stage, team formation
 
-### 13:30 - Finalise teams, mentors pairing 
+### 13:30 - Finalise teams, mentor pairing
 
-### 14:00 Hack! Phase 1 - Theme: "If you have to fail, fail fast". Rapid prototyping. 
+### 14:00 - Hacking begins! 
 
-### 15:00 - Demos in the isolation booths 
+### 15:00 - Hardware demos in the isolation booths
 
 ### 19:00 - Dinner 
 
-### 20:00 - Hack Phase 2 :theme : Focus
-
-### 22:00 - Mechano techno set
-
-### 23:00 - Hack
-
-
+### 22:00 - Graham Dunning: Mechanical  Techno Set
 
 ## Sunday, November 11th
 
-### 00:00 - Midnight feast 
-
-### 1:00 - Hack phase 3: Theme : the best ideas come at worst possible time 
-
-### 3:30 - Hack phase 4: quiet time 
-
-### 6:00 - Sunrise set 
+### 
 
 ### 8:30 - Breakfast 
 
-### 9:00 - Presentations prep
+### 9:00 - Pitch preparation with mentors
 
-### 11:00 - Stop hacking, Pitches to be collected for AV,  
+### 11:00 - Hacking ends! Presentations to be collected
 
-### 11:30- S1 reconfigure and clean 
+### 12:30 - Lunch
 
-### 12:30 - Lunch in canteen 
+### 13:00 - External guests and press arrive, mixer starts
 
-### 13:00 - External guests and press arrive, mixer with bar starts 
+### 13:15 - Teams present to judges 
 
-### 13:15 - Pitch Start 
+### 15:30 - Judges deliberate, Moonbounce in the Control Room
 
-### 15:30 - Performance/Judges deliberate 
-
-### 16:00 - Prizes announcement, final photos 
+### 16:00 - Prizes announced
 
 ### 17:00 - Event ends
 
