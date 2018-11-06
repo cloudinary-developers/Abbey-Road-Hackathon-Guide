@@ -1,6 +1,6 @@
 # Arrival Guide / Parking
 
-**Arrival:** 
+## **Arrival:** 
 
 10am, 10th November 2018
 
@@ -32,23 +32,21 @@ St John's Wood High Street
 
 Unfortunately, there is no parking available at Abbey Road Studios.
 
-**Studios T&C**
+## **Studios T&C**
 
 Please note no smoking is permitted in the building, we kindly ask you to smoke in front of the building in the designated spaces.
 
-Please note no photography is permitted in the public spaces like bar, corridors or reception.
+Please note no photography is permitted in public spaces like the bar, corridors or reception.
 
 We kindly ask you to respect privacy of other studio clients and never enter other studios, and keep noise to the minimum.
 
 No drinks are allowed in Control Rooms and next to studio equipment.
 
-Please make sure you are gentle to our 87 years old floors \(we have to pay large fees for the floor damage\).
+Please make sure you are gentle to our 87 year old floors \(we have to pay large fees in the event of any floor damage\).
 
 ## What to bring <a id="what-to-bring"></a>
 
--Your own laptop and or other tools you plan to use on the day.
-
--If you think you want to nap through the night please bring the sleeping bag \(bring toiletries or/and T-shirt if you want to feel good on Sunday\)
-
--We are supplying food \(in vegetarian and meat menu\) drinks and snacks but we cannot look after you if you have specific dietary requirements or allergies- please bring your own food then\). Our kitchen is not nut-free so if you have severe nut allergy we will not be able to cater for you.
+* Your own laptop and any other tools you plan to use on the day.
+* If you think you might want to nap during the night please feel free to bring a sleeping bag \(we will also have beanbags and blankets\). Plus basic toiletries and a change of clothes if you want to feel fresh on Sunday!
+* We will supply vegetarian and non-vegetarian meals, drinks and snacks throughout the event, but unfortunately we we cannot cater for specific dietary requirements and allergies \(e.g. gluten-free, vegan\) so feel free to bring your own food or go out for meals. Please note that our kitchen is **not** nut-free - if you have severe nut allergy, we will not be able to cater for you.
 
