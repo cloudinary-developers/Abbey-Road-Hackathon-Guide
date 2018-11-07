@@ -90,3 +90,9 @@ _Infuse apps, websites and bots with intelligent algorithms to see, hear, speak,
 
 **Principal Program Manager, Developer Experience Azure Applied AI and Cognitive Services**
 
+\*\*\*\*
+
+## **REGISTER FOR API ACCESS BEFORE THE EVENT:**
+
+\*\*\*\*[**https://azure.microsoft.com/en-us/try/cognitive-services/**](https://azure.microsoft.com/en-us/try/cognitive-services/)\*\*\*\*
+
