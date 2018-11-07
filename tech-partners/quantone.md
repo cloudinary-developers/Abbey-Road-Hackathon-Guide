@@ -1,8 +1,8 @@
 # Quantone
 
-Quantone is the home of music metadata. Our graph database allows for powerful search features, enabling browsing and navigation from labels, locations and works, alongside participants, recordings and album. We made our data easily accessible through a Rest API, ready to use in C\#, Java, and PHP.
-
 ![](../.gitbook/assets/image.png)
+
+Quantone is the home of music metadata. Our graph database allows for powerful search features, enabling browsing and navigation from labels, locations and works, alongside participants, recordings and album. We made our data easily accessible through a Rest API, ready to use in C\#, Java, and PHP.
 
 **Data fields**
 
@@ -120,4 +120,8 @@ The SDK for each available language is in the following links:
 ●     [Java](https://developer.quantonemusic.com/java-sdk)
 
 ●     [PHP](https://developer.quantonemusic.com/php-sdk)
+
+## API Mentor:
+
+[arya.rinaldo@quantonemusic.com](mailto:Arya.Rinaldo@quantonemusic.com)
 
