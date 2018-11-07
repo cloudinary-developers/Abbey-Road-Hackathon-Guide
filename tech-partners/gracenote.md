@@ -6,6 +6,7 @@ The Gracenote Web API delivers a rich set of music metadata over HTTP to help po
 
 **All involved in the Hackathon will need to register beforehand here** [**https://developer.gracenote.com/**](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdeveloper.gracenote.com%2F&data=02%7C01%7CDominika.Dronska%40abbeyroad.com%7C3aa56c2d4ede4a69c40b08d63f15239e%7Cbbcb6b2f8c7c4e2486e46c36fed00b78%7C1%7C0%7C636765757393584529&sdata=mKI7reBRjvsvSmkB3f1VNo6qtQhSb%2FY6IxII%2FkPtlHE%3D&reserved=0) ****
 
-**This will give them full developer access to APIs etc. Once registered please email Luke Ireland** [**luke.ireland@nielsen.com**](mailto:luke.ireland@nielsen.com) **to confirm/if any problems.**  
+**This will give them full developer access to APIs etc. Once registered please email Luke Ireland** [**luke.ireland@nielsen.com**](mailto:luke.ireland@nielsen.com) **to confirm/if any problems.**
 
+## API Mentor: [**luke.ireland@nielsen.com**](mailto:luke.ireland@nielsen.com) **** 
 
