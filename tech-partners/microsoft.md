@@ -24,8 +24,8 @@ _Infuse apps, websites and bots with intelligent algorithms to see, hear, speak,
 
 ### **Documentation**
 
-* **https://docs.microsoft.com/en-us/azure/cognitive-services/** 
-* **https://docs.microsoft.com/en-us/azure/azure-databricks/ https://www.microsoft.com/en-us/ai**
+* \*\*\*\*[**https://docs.microsoft.com/en-us/azure/cognitive-services/** ](https://docs.microsoft.com/en-us/azure/cognitive-services/)\*\*\*\*
+* \*\*\*\*[**https://docs.microsoft.com/en-us/azure/azure-databricks/**](https://docs.microsoft.com/en-us/azure/azure-databricks/) ****[**https://www.microsoft.com/en-us/ai**](https://www.microsoft.com/en-us/ai)
 
 
 
