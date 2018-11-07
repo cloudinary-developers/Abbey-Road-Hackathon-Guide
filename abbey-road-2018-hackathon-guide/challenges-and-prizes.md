@@ -43,6 +43,22 @@ When thinking about your ideas, try to think about artists and the creative proc
 * **Krzysztof Gudowski, Business Development , Miquido** 
 * **David Hawkes Managing Director, Commercial \(UK\) Universal Music Group**
 
+\*\*\*\*
+
+## Submission
+
+You need to Register now and then Submit your projects before the deadline at 11:00 on Sunday \(Nov. 11th\), both at this link:
+
+[**https://abbey-road-hackathon-2018.devpost.com/**](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fabbey-road-hackathon-2018.devpost.com%2F&data=02%7C01%7CDominika.Dronska%40abbeyroad.com%7C491500e37c264d7edcb708d644bf3fbb%7Cbbcb6b2f8c7c4e2486e46c36fed00b78%7C1%7C0%7C636771985559424630&sdata=VWgKi2dIdeumHj0aEugOPh7BNpAdD8uSqssZw%2F%2Bq2Fk%3D&reserved=0)
+
+Here's what you need to do on Saturday:
+
+Have EVERY person on your team go to the link above and click **"Register for this hackathon."** \(**It will require you create Devpost accounts, which is a quick process if you haven't yet done it.**\) FYI, If you need a teammate, visit the Participants page to meet fellow hackers. Don't forget to introduce yourself!
+
+One person from each team will Enter a Submission \(**which is a button you'll see on the hackathon homepage after you Register**\). Toward the bottom of the submission form, you'll be asked to add your teammates' email addresses. Make sure you enter the same email addresses your teammates used to create their Devpost accounts.
+
+Start early by entering what info you can on the submission form, and then save it as a draft. That way you won't be rushed toward the end. You'll be able to keep updating it until the deadline!
+
 ## Prizes:
 
 ### **Microsoft Main prize for The Best Use of AI:**
