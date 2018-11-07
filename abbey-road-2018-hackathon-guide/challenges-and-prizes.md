@@ -51,7 +51,7 @@ When thinking about your ideas, try to think about artists and the creative proc
 * **Membership for up to 6 developers from the winning team in the “AI Insiders Program” through to July 1, 2019 which includes:**
   * **Early access to newest technology releases**
   * **Monthly Q&A Calls** 
-  * **Official Linked In badge \(“Hackathon Winner” version\)**
+  * **Official LinkedIn badge \(“Hackathon Winner” version\)**
 * **Xboxes for up to 6 team members**
 
 ### Miquido Main prize for The Best User-Friendly Thinking
