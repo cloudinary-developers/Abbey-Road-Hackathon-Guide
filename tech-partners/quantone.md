@@ -2,11 +2,11 @@
 
 ![](../.gitbook/assets/image.png)
 
-Quantone is the home of music metadata. Our graph database allows for powerful search features, enabling browsing and navigation from labels, locations and works, alongside participants, recordings and album. We made our data easily accessible through a Rest API, ready to use in C\#, Java, and PHP.
+Quantone is the home of music metadata. Our deep and highly-linked database enables powerful search features, where you can browse from record labels to locations, recordings to musical work, and albums to session musicians. We made our data easily accessible through a Rest API, ready to use in C\#.
 
 **Data fields**
 
-The breadth of data captured in our database contains:
+The breadth of data captured in our database includes:
 
 ●     1,5 million artists, each with aliases and spelling in multiple languages
 
@@ -20,33 +20,25 @@ The breadth of data captured in our database contains:
 
 ●     150,000 labels
 
-## The full list of **data fields** and **API** **endpoints** are listed in the link below**.**
+●     230,000 recording and production locations
+
+The full list of data fields and API endpoints are listed in the link below.
 
 [https://developer.quantonemusic.com/object-documentation](https://developer.quantonemusic.com/object-documentation)
 
-**Signing up to the API**
+**API documentation**
 
-Quantone’s API uses AppID and AppKey authentication for simplified access and authorization We have provided Abbey Road Red Hackathon 2018 participants with the API ID and key as follows:
+You can find the full documentation on our API in the link below.
 
-●     Application ID: 3d82c010
+[https://developer.quantonemusic.com/rest-api-v3](https://developer.quantonemusic.com/rest-api-v3)
 
-●     Application key: 4581d1b6b8b14e6fc370cc0293df3116
-
-**API Documentation**
-
-## You can find the **full documentation** on our API in the link below.
-
-#### [https://developer.quantonemusic.com/rest-api-v3](https://developer.quantonemusic.com/rest-api-v3)
-
-## We’ve also included examples of data output for **albums** and **recordings**.
+We’ve also included examples of data output for albums and recordings.
 
 ●     [Recording sample: Sam Smith - Stay With Me](https://developer.quantonemusic.com/recording-sample)
 
 ●     [Album sample: Sam Smith - In The Lonely Hour](https://developer.quantonemusic.com/album-sample)
 
 **Calling the API**
-
-You can call the API using [https://data.quantonemusic.com/v3](https://data.quantonemusic.com/v3)
 
 Our API is stateless, which means you need to identify yourself with each call.
 
@@ -55,6 +47,8 @@ On each call to the API you will need an AppID and AppKey included in your HTTP 
 ●      AppID = 3d82c010
 
 ●      AppKey = 4581d1b6b8b14e6fc370cc0293df3116
+
+You can call the API using [https://data.quantonemusic.com/v3](https://data.quantonemusic.com/v3)
 
 The HTTP Request Header should look something like this:
 
@@ -71,9 +65,9 @@ The HTTP Request Header should look something like this:
         <p>Accept-Encoding: gzip,deflate,sdch</p>
         <p>Accept-Language: en-GB,en-US;q=0.8,en;q=0.6</p>
         <p>Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3</p>
-        <p><b>AppID: {Your Application ID}</b>
+        <p><b>AppID: 3d82c010</b>
         </p>
-        <p><b>AppKey: {Your Application Key}</b>
+        <p><b>AppKey: 4581d1b6b8b14e6fc370cc0293df3116</b>
         </p>
       </th>
     </tr>
@@ -90,6 +84,8 @@ The HTTP Request Header should look something like this:
 ●     Internet Explorer - [Fiddler](https://www.telerik.com/fiddler)
 
 **Sample queries**
+
+When running these queries you can also modify your browser header to view the results in JSON or XML.
 
 ●         **The Black Panther Soundtrack** participant credits
 
@@ -111,17 +107,15 @@ The HTTP Request Header should look something like this:
 
 [https://data.quantonemusic.com/v3/recordings?title=never%gonna%give%you%up](about:blank)
 
-## SDK
+**SDK**
 
-The SDK for each available language is in the following links:
+The SDK documentation is available in the following link:
 
 ●     [C\#](https://developer.quantonemusic.com/csharp-sdk)
 
-●     [Java](https://developer.quantonemusic.com/java-sdk)
+**API mentors**
 
-●     [PHP](https://developer.quantonemusic.com/php-sdk)
+●     [arya.rinaldo@quantonemusic.com](mailto:arya.rinaldo@quantonemusic.com)
 
-## API Mentor:
-
-[arya.rinaldo@quantonemusic.com](mailto:Arya.Rinaldo@quantonemusic.com)
+●     [james.willmoth@quantonemusic.com](mailto:james.willmoth@quantonemusic.com)
 
