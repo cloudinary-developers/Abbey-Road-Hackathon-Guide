@@ -45,6 +45,7 @@ Please make that sure you are gentle to our 87 year old floors \(we have to pay 
 ## What to bring <a id="what-to-bring"></a>
 
 * Your own laptop and any other tools you plan to use on the day.
+* UK adaptors if you need them
 * If you think you might want to nap during the night please feel free to bring a sleeping bag \(we will also have beanbags and blankets\). Plus basic toiletries and a change of clothes if you want to feel fresh on Sunday!
 * We will supply vegetarian and non-vegetarian meals, drinks and snacks throughout the event, but unfortunately we we cannot cater for specific dietary requirements and allergies \(e.g. gluten-free, vegan\) so feel free to bring your own food or go out for meals. Please note that our kitchen is **not** nut-free - if you have severe nut allergy, we will not be able to cater for you.
 
