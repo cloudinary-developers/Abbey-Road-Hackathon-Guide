@@ -90,9 +90,13 @@ _Infuse apps, websites and bots with intelligent algorithms to see, hear, speak,
 
 **Principal Program Manager, Developer Experience Azure Applied AI and Cognitive Services**
 
+**GUIDE VIDEOS:**
+
+\*\*\*\*[**https://YouTube.com/noellelacharite** ](https://YouTube.com/noellelacharite%20)\*\*\*\*
+
 \*\*\*\*
 
-## **REGISTER FOR API ACCESS BEFORE THE EVENT:**
+## **REGISTER FOR FREE API ACCESS BEFORE THE EVENT:**
 
 \*\*\*\*[**https://azure.microsoft.com/en-us/try/cognitive-services/**](https://azure.microsoft.com/en-us/try/cognitive-services/)\*\*\*\*
 
