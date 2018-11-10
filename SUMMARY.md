@@ -7,6 +7,7 @@
 * [Arrival Guide / Parking](abbey-road-2018-hackathon-guide/arrival-guide-parking.md)
 * [Hackathon Event Flow](abbey-road-2018-hackathon-guide/hackathon-event-flow.md)
 * [Challenges and Prizes](abbey-road-2018-hackathon-guide/challenges-and-prizes.md)
+* [Hackathon Slack Channel](abbey-road-2018-hackathon-guide/hackathon-slack-channel.md)
 
 ## Tech Partners
 
