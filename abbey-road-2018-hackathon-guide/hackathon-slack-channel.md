@@ -1,7 +1,3 @@
----
-description: 'Ask questions, team formation, mentorship connections, post links/ideas, etc.!'
----
-
 # Hackathon Slack Channel
 
 ##      Join the hackathon Slack channel here: [https://bit.ly/2Fh8BMR](https://bit.ly/2Fh8BMR)

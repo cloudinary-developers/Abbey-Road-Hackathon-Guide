@@ -34,7 +34,7 @@
 
 ### 13:15 - Teams present to judges 
 
-### 15:30 - Judges deliberate, Moonbounce in the Control Room
+### 15:30 - Judges deliberate, [Moonbounce](https://docs.google.com/presentation/d/e/2PACX-1vQLtM-Gcqi4HBCId02rgra8VQydOBoJaTWC2X3IIr4sjeO_cmX-1nxvM3inQZSD7WobR3ouy-XNUrcW/pub?start=false&loop=false&delayms=3000) in the Control Room:
 
 ### 16:00 - Prizes announced
 
