@@ -67,8 +67,8 @@ Start early by entering what info you can on the submission form, and then save 
 * **Membership for up to 6 developers from the winning team in the “AI Insiders Program” through to July 1, 2019 which includes:**
   * **Early access to newest technology releases**
   * **Monthly Q&A Calls** 
-  * **Official LinkedIn badge \(“Hackathon Winner” version\)**
-* **Xboxes for up to 6 team members**
+  * Official LinkedIn badge \(“Hackathon Winner” version\)
+* **Surprise prize at jury's discretion**
 
 ### Miquido Main prize for The Best User-Friendly Thinking
 
@@ -90,9 +90,9 @@ Miquido is 2018 Android Certified Agency, covered by Time & Forbes, and named To
 
 * **A generous supply of beer from London Field Brewery for each team member**
 
-### JUCE Prize For the Best Audio Devs
+### Surpise prize at Jury's discretionary
 
-* **3 ROLI BLOCKS Developer Kits for the best audio developers**
+### \( **Might include 3 ROLI BLOCKS Developer Kits for the best audio developers\)**
 
 
 
