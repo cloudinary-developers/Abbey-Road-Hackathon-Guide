@@ -6,7 +6,7 @@
 
 **\*\* You will need to** [**set up a free account on Cloudinary**](http://www.cloudinary.com) **to utilize the tool. Feel free to ask Cloudinary reps Timirah or Stephen if you need any help regarding Cloudinary. ALSO -- make sure you're set up on the hackathon Slack channel to gain and share more insight and resources or to ask additional questions!!**
 
-### **You can find useful tutorials in the** [**Cloudinary section of the Hackathon Guide**](https://cloudinary.gitbook.io/abbey-road-hackathon-2018/~/drafts/-LQXa_LHkilJsoF9C0Wy/primary/cloudinary/build-a-cover-image)**.**
+### **You can find useful tutorials in the** [**Cloudinary section of the Hackathon Guide**](https://cloudinary.gitbook.io/abbey-road-hackathon-2018/cloudinary/build-a-cover-image)**.**
 
 
 
