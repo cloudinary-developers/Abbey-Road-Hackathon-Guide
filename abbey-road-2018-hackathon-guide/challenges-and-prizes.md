@@ -18,7 +18,7 @@ How can future instruments span distances, inspire and aid creativity? Can we de
 
 **4. Real time production:** _What if 5 artists based in different locations want to perform live together? How would you cope with signal delay?_ 
 
-**5. Picture-based music:** _Could you use Vision API to compose music from pictures or videos? Or Face API to perform a track using a crowd of people?_
+**5. Picture-based music:** _Could you use the Cloudinary API to compose music from pictures or videos? Or Face API to perform a track using a crowd of people?_
 
 **6. Crowdsourced music:** _How could you build a tool that crowdsources audio contributions from around the world to generate music?_
 
