@@ -61,7 +61,7 @@ Start early by entering what info you can on the submission form, and then save 
 
 ## Prizes:
 
-### **Microsoft Main prize for The Best Use of AI:**
+### **Microsoft Main prize for The Best Use of AI presenetd by Noelle LACharite , AI Absolute AI Guru at Microsoft**
 
 * **1 hour strategy session on the winning project after the Hackathon from Microsoft mentors and experts \(before May 31, 2019\)** 
 * **Membership for up to 6 developers from the winning team in the “AI Insiders Program” through to July 1, 2019 which includes:**
@@ -70,7 +70,7 @@ Start early by entering what info you can on the submission form, and then save 
   * Official LinkedIn badge \(“Hackathon Winner” version\)
 * **Surprise prize at jury's discretion**
 
-### Miquido Main prize for The Best User-Friendly Thinking
+## Miquido Gold Prize prize for The Best User-Friendly Thinking presented by CKrzysztof Gudowski Business Developer at Miquido
 
 * **£2000 to share between team members**
 
@@ -79,22 +79,28 @@ Start early by entering what info you can on the submission form, and then save 
   
 Miquido is 2018 Android Certified Agency, covered by Time & Forbes, and named Top 2018 Mobile App Development Company in the UK. Their solutions, including Abbey Road Topline app, are featured in Google Play and App Store.
 
-### Cloudinary **Prize: B**est Implementation of Cloudinary in a Hack 
+## Cloudinary **Prize: B**est Implementation of Cloudinary in a Hack presented by Tamirah James, developer advocate
 
 * **1-year Cloudinary Plus plan \($1068 value\)** 
 * **Distinguished hack projects \(that use Cloudinary\) will also be featured on** [**Cloudinary Blog**](https://cloudinary.com/blog)**.**
 
 [**Cloudinary**](https://cloudinary.com/signup?utm_source=HMW&utm_medium=Gitbook&utm_campaign=Evangelism&utm_term=Hackathon-Guide&utm_content=Signup_HMW-2018) delivers on the premise that images and visuals greatly enhance the user experience of music and video. As a powerful API for media management, Cloudinary lets developers handle images, videos, audio and emerging media types. End-to-end automation includes media selection, upload, analysis, administration, manipulation, optimization and delivery.
 
-### London Field Brewery Prize For The Most Original Idea
+## London Field Brewery Prize For The Most Original Idea presented by Jeremy Huffelmann, , head of partnerships at Abbey Road Studios
 
 * **A generous supply of beer from London Field Brewery for each team member**
 
-### Surpise prize at Jury's discretionary
+## 
+
+Surpise prize at Jury's discretionary presented by Isabel Garvey MD of Abbey Road Studios
 
 \( **Might include 3 ROLI BLOCKS Developer Kits for the best audio developers\)**
 
-### **Audio Commons - Queen Mary Suprise Prize:** Best use of Creative Commons Audio **\(£100 Amazon Gift Card\)**
+## **Audio Commons - Queen Mary Suprise Prize:** Best use of Creative Commons Audio **\(£100 Amazon Gift Card\) presented by George Fazekas Senior Lecturer at Queen Mary**
+
+## CHIRP Surpise Prize: Best use of Chirp Boards presented by Dr Dan CTO CHIRP
+
+
 
 \*\*\*\*
 
